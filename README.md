@@ -1,7 +1,7 @@
 
-  # Loan Management Dashboard UI
+  # Credify - Loan Management Platform
 
-  This is a code bundle for Loan Management Dashboard UI. The original project is available at https://www.figma.com/design/7nlPWvPTAyIpj64AiaHZh6/Loan-Management-Dashboard-UI.
+  This is a Loan Management Dashboard UI built with React and Vite.
 
   ## Running the code
 
